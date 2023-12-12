@@ -1,0 +1,7 @@
+README.md
+setup.py
+fake_news.egg-info/PKG-INFO
+fake_news.egg-info/SOURCES.txt
+fake_news.egg-info/dependency_links.txt
+fake_news.egg-info/top_level.txt
+src_env/__init__.py
